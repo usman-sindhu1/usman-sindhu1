@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/usmanbhatti-dev">
+  <a href="https://github.com/usman-sindhu1">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A7EF7&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Usman;Hey+%F0%9F%91%8B+I'm+Usman+Bhatti;Senior+Full-Stack+Engineer+%7C+Software+Architect;Building+Scalable+SaaS+%26+Healthcare+Systems;TypeScript+%7C+Node.js+%7C+React+%7C+AWS;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </p>
