@@ -15,7 +15,7 @@ I don't just build features — **I design systems that scale.**
 - 🏥 Specialized in **HIPAA & GDPR compliant** healthcare systems
 - ☁️ Full-stack across web, mobile, and cloud infrastructure
 - 🌍 Available for **remote opportunities** with international teams
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) | usmanbhatti-dev@gmail.com
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/usman-akhtar-sindhu-9122952ba?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | uakhtarsindhu001@gmail.com
 
 ---
 
