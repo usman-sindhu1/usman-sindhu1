@@ -1,18 +1,24 @@
 <p align="center">
-  <a href="https://github.com/usman-sindhu1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A7EF7&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Usman;Hey+%F0%9F%91%8B+I'm+Usman+Bhatti;Senior+Full-Stack+Engineer+%7C+Software+Architect;Building+Scalable+SaaS+%26+Healthcare+Systems;TypeScript+%7C+Node.js+%7C+React+%7C+AWS;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A7EF7&center=true&vCenter=true&width=600&repeat=false&lines=Hey+%F0%9F%91%8B+I'm+Usman+Sindhu" alt="Typing SVG" />
 </p>
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header)
+<p align="center">
+  <b>Senior Full-Stack Engineer | Software Architect</b><br/>
+  Building Scalable SaaS & Healthcare Systems<br/>
+  TypeScript · Node.js · React · AWS<br/>
+  🌍 Open to Remote Opportunities
+</p>
+
+![banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=3)
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Full-Stack Engineer & Software Architect** based in **Lahore, Pakistan** with **4+ years** of experience designing and delivering production-grade SaaS platforms, healthcare systems, real-time applications, and mobile apps.
+I'm a **Senior Full-Stack Engineer & Software Architect** based in **Lahore, Pakistan** with **3+ years** of experience designing and delivering production-grade SaaS platforms, healthcare systems, real-time applications, and mobile apps.
 
 I don't just build features — **I design systems that scale.**
 
-- 🏗️ Currently building at **D. Dynamics** as Senior Full-Stack Engineer & Architect
+- 🏗️ Currently building at **D. Dynamics** as Senior Full-Stack Engineer & Architect (2 years, full-stack)
+- 🎨 Started at **Cloudsole** as a Frontend Engineer (1 year, mobile & web apps)
 - 🏥 Specialized in **HIPAA & GDPR compliant** healthcare systems
 - ☁️ Full-stack across web, mobile, and cloud infrastructure
 - 🌍 Available for **remote opportunities** with international teams
@@ -84,11 +90,25 @@ I don't just build features — **I design systems that scale.**
 
 ## 💼 Experience
 
-```text
-Senior Full-Stack Engineer & Software Architect   D. Dynamics          Apr 2025 — Present
-Software Engineer (MERN Stack)                    Zaryans Consulting   Aug 2022 — Mar 2025
-Junior Software Engineer · React Native            ManiWebify           Mar 2022 — Aug 2022
-```
+### Senior Full-Stack Engineer & Software Architect — **D. Dynamics**
+`Aug 2024 — Present · 2 years`
+
+- Owned full-stack delivery across web, mobile, and cloud — system design, API architecture, and deployment
+- Architected multi-tenant SaaS platforms with schema isolation, subscription billing (Stripe), and RBAC
+- Built HIPAA & GDPR-compliant healthcare systems — telemedicine, patient portals, clinical workflows
+- Delivered real-time features — WebSockets, Redis pub/sub, live GPS tracking
+- Integrated AI/LLM pipelines — RAG, OpenAI, semantic search, voice AI
+- Shipped React Native apps to the App Store & Google Play alongside the web product
+
+### Frontend Engineer (Mobile & Web) — **Cloudsole**
+`Aug 2023 — Aug 2024 · 1 year`
+
+- Built and maintained responsive web frontends (React, Next.js, Tailwind CSS)
+- Developed cross-platform mobile apps with React Native for iOS & Android
+- Collaborated with backend teams to integrate REST APIs and third-party services
+- Focused on UI/UX polish, performance optimization, and component reusability
+
+---
 
 ### What I specialize in
 
