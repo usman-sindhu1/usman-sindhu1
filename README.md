@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4A7EF7&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Usman+Sindhu;Senior+Full-Stack+Engineer+%7C+Software+Architect;Building+Scalable+SaaS+%26+Healthcare+Systems;TypeScript+%7C+Node.js+%7C+React+%7C+React+Native+%7C+AWS;%F0%9F%8C%8D+Open+to+Remote+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4A7EF7&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Usman+Sindhu;Senior+Full-Stack+Engineer+%7C+Software+Architect;Building+Scalable+SaaS+%26+Healthcare+Systems;TypeScript+%7C+Node.js+%7C+React+%7C+React+Native+%7C+AWS;%F0%9F%8C%8D+Open+to+Remote+Opportunities" alt="Typing SVG" width="100%" style="max-width:700px;" />
 </p>
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100)
