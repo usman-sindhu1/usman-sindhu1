@@ -58,8 +58,8 @@ I don't just build features — **I design systems that scale.**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanbhatti-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanbhatti-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-orpin.vercel.app/api?username=usmanbhatti-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-orpin.vercel.app/api/top-langs/?username=usmanbhatti-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
